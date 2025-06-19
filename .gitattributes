@@ -1,2 +1,4 @@
 data export-ignore
 generated export-ignore
+*.ts   linguist-language=TypeScript
+*.tsx  linguist-language=TypeScript
